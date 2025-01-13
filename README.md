@@ -45,5 +45,5 @@ Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
 Contact
-Your Name - [waqaskhan600.wk@gmail.com]
+Email - [waqaskhan600.wk@gmail.com]
 Project Link: [https://github.com/Waqaskhan600/breast-cancer-prediction]
