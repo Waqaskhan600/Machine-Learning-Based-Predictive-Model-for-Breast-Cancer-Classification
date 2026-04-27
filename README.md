@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine_Learning Based Predictive Model for Breast Cancer Classification
 Breast Cancer Prediction using Machine Learning
 Overview
 This project implements a machine learning model to predict breast cancer diagnosis (benign or malignant) using the Wisconsin Breast Cancer dataset. The model uses Fine Needle Aspiration (FNA) data to assist in early detection and diagnosis of breast cancer.
